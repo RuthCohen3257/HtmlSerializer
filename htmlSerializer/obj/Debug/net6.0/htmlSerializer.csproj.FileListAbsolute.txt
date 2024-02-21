@@ -1,0 +1,50 @@
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.exe
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlTags.json
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.deps.json
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.runtimeconfig.json
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.dll
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.pdb
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfo.cs
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.dll
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\refint\htmlSerializer.dll
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.pdb
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.genruntimeconfig.cache
+C:\Users\USER\Desktop\תיכנות\תשפד\פרקטיקוד\htmlSerializer\htmlSerializer\obj\Debug\net6.0\ref\htmlSerializer.dll
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.exe
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlTags.json
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.deps.json
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.runtimeconfig.json
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.dll
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfo.cs
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.dll
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\refint\htmlSerializer.dll
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.pdb
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.genruntimeconfig.cache
+C:\Users\User\Desktop\רותי\שנה ב'\htmlSerializer\htmlSerializer\obj\Debug\net6.0\ref\htmlSerializer.dll
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.exe
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlTags.json
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.deps.json
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.runtimeconfig.json
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.dll
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\bin\Debug\net6.0\htmlSerializer.pdb
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.AssemblyInfo.cs
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.dll
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\refint\htmlSerializer.dll
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.pdb
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\htmlSerializer.genruntimeconfig.cache
+C:\Users\USER\Desktop\htmlSerializer\htmlSerializer\obj\Debug\net6.0\ref\htmlSerializer.dll

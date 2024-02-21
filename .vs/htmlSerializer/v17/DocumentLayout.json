@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\selector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\htmltags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\htmltags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\htmlpraser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\htmlpraser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\htmlelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\extensionsfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\extensionsfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|c:\\users\\user\\desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlserializer\\htmlserializer\\htmlvoidtags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D804530-32A4-4500-8318-BC0206A529A5}|htmlSerializer\\htmlSerializer.csproj|solutionrelative:htmlserializer\\htmlvoidtags.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HtmlTags.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlTags.json",
+              "RelativeDocumentMoniker": "htmlSerializer\\HtmlTags.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlTags.json",
+              "RelativeToolTip": "htmlSerializer\\HtmlTags.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T09:27:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HtmlVoidTags.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlVoidTags.json",
+              "RelativeDocumentMoniker": "htmlSerializer\\HtmlVoidTags.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlVoidTags.json",
+              "RelativeToolTip": "htmlSerializer\\HtmlVoidTags.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T09:27:19.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlPraser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlPraser.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\HtmlPraser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlPraser.cs",
+              "RelativeToolTip": "htmlSerializer\\HtmlPraser.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\HtmlHelper.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlHelper.cs",
+              "RelativeToolTip": "htmlSerializer\\HtmlHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\Program.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\Program.cs",
+              "RelativeToolTip": "htmlSerializer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExtensionsFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\ExtensionsFunctions.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\ExtensionsFunctions.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\ExtensionsFunctions.cs",
+              "RelativeToolTip": "htmlSerializer\\ExtensionsFunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Selector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\Selector.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\Selector.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\Selector.cs",
+              "RelativeToolTip": "htmlSerializer\\Selector.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HtmlElement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlElement.cs",
+              "RelativeDocumentMoniker": "htmlSerializer\\HtmlElement.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E8\u05D5\u05EA\u05D9\\\u05E9\u05E0\u05D4 \u05D1\u0027\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\htmlSerializer\\htmlSerializer\\HtmlElement.cs",
+              "RelativeToolTip": "htmlSerializer\\HtmlElement.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:27:19.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
